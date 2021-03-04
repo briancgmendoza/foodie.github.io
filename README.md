@@ -1,2 +1,2 @@
 # foodie
-# Just followed a tutorial on Udemy.
+Day 1 of 60 days building a website.
